@@ -1,2 +1,2 @@
 clearvars
-f=10;
+fre=10;
