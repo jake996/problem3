@@ -1,10 +1,10 @@
-w=500;
+f=500;
 sim('problem3.slx')
-w=2000;
+f=2000;
 sim('problem3.slx')
-w=5000;
+f=5000;
 sim('problem3.slx')
-w=7500;
+f=7500;
 sim('problem3.slx')
-w=10000;
+f=10000;
 sim('problem3.slx')

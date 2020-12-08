@@ -1,0 +1,2 @@
+clearvars
+f=10;
